@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Cinzel - Code Geass C.C. Theme",
+  "previewText": "Lelouch vi Britannia commands you!",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "ggsans-Bold": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "ggsans-BoldItalic": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "ggsans-ExtraBold": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "ggsans-ExtraBoldItalic": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "ggsans-Medium": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "ggsans-MediumItalic": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "ggsans-Normal": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "ggsans-NormalItalic": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "ggsans-Semibold": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "ggsans-SemiboldItalic": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "NotoSans-Bold": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "NotoSans-ExtraBold": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "NotoSans-Medium": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "NotoSans-Normal": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "NotoSans-NormalItalic": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "NotoSans-Semibold": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf",
+    "SourceCodePro-Semibold": "https://fonts.gstatic.com/s/cinzel/v19/8vXU7em859v1un81_m9_.ttf"
+  }
+}
